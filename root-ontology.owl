@@ -1,0 +1,389 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns="http://webprotege.stanford.edu/project/9MSGV26Sdt53UV9GNiz3UI#"
+     xml:base="http://webprotege.stanford.edu/project/9MSGV26Sdt53UV9GNiz3UI"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:owl="http://www.w3.org/2002/07/owl#"
+     xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+     xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <owl:Ontology rdf:about="http://webprotege.stanford.edu/project/9MSGV26Sdt53UV9GNiz3UI"/>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Annotation properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://purl.org/dc/elements/1.1/description -->
+
+    <owl:AnnotationProperty rdf:about="http://purl.org/dc/elements/1.1/description"/>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Datatypes
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://webprotege.stanford.edu/RCrx6MgQcCHEjPJc9UGTi9J -->
+
+    <rdfs:Datatype rdf:about="http://webprotege.stanford.edu/RCrx6MgQcCHEjPJc9UGTi9J">
+        <rdfs:label>Fikret Eren
+16 x 23,5 cm</rdfs:label>
+    </rdfs:Datatype>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Object Properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://webprotege.stanford.edu/R7LUvSzbpX3hM085Y1yW3km -->
+
+    <owl:ObjectProperty rdf:about="http://webprotege.stanford.edu/R7LUvSzbpX3hM085Y1yW3km">
+        <rdfs:label>Authors</rdfs:label>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RHYZmig68cyFtvBAaxmk76 -->
+
+    <owl:ObjectProperty rdf:about="http://webprotege.stanford.edu/RHYZmig68cyFtvBAaxmk76">
+        <rdfs:label>title</rdfs:label>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Data properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://webprotege.stanford.edu/R9H3IJrqWEtJMrehSrr7SMi -->
+
+    <owl:DatatypeProperty rdf:about="http://webprotege.stanford.edu/R9H3IJrqWEtJMrehSrr7SMi">
+        <rdfs:label>Size</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R9IXbLDRkc9MJP42hjCizM3 -->
+
+    <owl:DatatypeProperty rdf:about="http://webprotege.stanford.edu/R9IXbLDRkc9MJP42hjCizM3">
+        <rdfs:label>Name</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R9YFBFgKrOK24VjEl06O1BB -->
+
+    <owl:DatatypeProperty rdf:about="http://webprotege.stanford.edu/R9YFBFgKrOK24VjEl06O1BB">
+        <rdfs:label>Author</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RBSnOO0OjRefOP8CI01frXk -->
+
+    <owl:DatatypeProperty rdf:about="http://webprotege.stanford.edu/RBSnOO0OjRefOP8CI01frXk">
+        <rdfs:label>Page number</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RC2M7zbQ4OyudGABNa5dqNK -->
+
+    <owl:DatatypeProperty rdf:about="http://webprotege.stanford.edu/RC2M7zbQ4OyudGABNa5dqNK">
+        <rdfs:label>Pages Number</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RDWRqqyyApeeQHbZ45ivij6 -->
+
+    <owl:DatatypeProperty rdf:about="http://webprotege.stanford.edu/RDWRqqyyApeeQHbZ45ivij6">
+        <rdfs:label>Book name</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RXZg1ra7rx2TpMKTFJfcmt -->
+
+    <owl:DatatypeProperty rdf:about="http://webprotege.stanford.edu/RXZg1ra7rx2TpMKTFJfcmt">
+        <rdfs:label>Year of Publication</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Classes
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://webprotege.stanford.edu/R7ZO5xlReUyit7WkBuGa8MW -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/R7ZO5xlReUyit7WkBuGa8MW">
+        <rdfs:label>Property of Law</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R9E3Yo6UExdkmM92WxlGuuW -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/R9E3Yo6UExdkmM92WxlGuuW">
+        <rdfs:label>Sociology of Law</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R9ZfN2PYepvKx3xTwXpSzP -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/R9ZfN2PYepvKx3xTwXpSzP">
+        <rdfs:label>Sociology of Law Books</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/R9E3Yo6UExdkmM92WxlGuuW"/>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://webprotege.stanford.edu/RXZg1ra7rx2TpMKTFJfcmt"/>
+                <owl:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2014</owl:hasValue>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://webprotege.stanford.edu/RBSnOO0OjRefOP8CI01frXk"/>
+                <owl:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">317</owl:hasValue>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://webprotege.stanford.edu/R9YFBFgKrOK24VjEl06O1BB"/>
+                <owl:hasValue>Yasemin Işıktaç</owl:hasValue>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://webprotege.stanford.edu/RDWRqqyyApeeQHbZ45ivij6"/>
+                <owl:hasValue>Dönüşen Toplum - Dönüşen Hukuk 1: Metamorfoz</owl:hasValue>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://webprotege.stanford.edu/R9H3IJrqWEtJMrehSrr7SMi"/>
+                <owl:hasValue>13,5 x 21 cm</owl:hasValue>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <dc:description>paperback</dc:description>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RBVGzR7RRtamHtc0xCw0SX -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RBVGzR7RRtamHtc0xCw0SX">
+        <rdfs:label>Law of Penalty Books</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RCCv7TOKZdXvOMFHuwjk8CZ"/>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://webprotege.stanford.edu/R7LUvSzbpX3hM085Y1yW3km"/>
+                <owl:hasValue rdf:resource="http://webprotege.stanford.edu/R7xTWV06xL0YBHSAB37dfld"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://webprotege.stanford.edu/RBSnOO0OjRefOP8CI01frXk"/>
+                <owl:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">430</owl:hasValue>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://webprotege.stanford.edu/RDWRqqyyApeeQHbZ45ivij6"/>
+                <owl:hasValue>Hekimin Cezai Sorumluluğu</owl:hasValue>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://webprotege.stanford.edu/R9H3IJrqWEtJMrehSrr7SMi"/>
+                <owl:hasValue>16 x 23,5 cm</owl:hasValue>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://webprotege.stanford.edu/RXZg1ra7rx2TpMKTFJfcmt"/>
+                <owl:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2016</owl:hasValue>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <dc:description>paperback</dc:description>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RC4k7BfAntN18Cy6exwhqsy -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RC4k7BfAntN18Cy6exwhqsy">
+        <rdfs:label>Law of Property Books</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/R7ZO5xlReUyit7WkBuGa8MW"/>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://webprotege.stanford.edu/R9H3IJrqWEtJMrehSrr7SMi"/>
+                <owl:hasValue>16 x 23,5 cm</owl:hasValue>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://webprotege.stanford.edu/RXZg1ra7rx2TpMKTFJfcmt"/>
+                <owl:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2016</owl:hasValue>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://webprotege.stanford.edu/RDWRqqyyApeeQHbZ45ivij6"/>
+                <owl:hasValue>Mülkiyet Hukuku</owl:hasValue>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://webprotege.stanford.edu/R9YFBFgKrOK24VjEl06O1BB"/>
+                <owl:hasValue>Fikret Eren</owl:hasValue>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://webprotege.stanford.edu/RC2M7zbQ4OyudGABNa5dqNK"/>
+                <owl:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">527</owl:hasValue>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <dc:description>paperback</dc:description>
+        <rdfs:seeAlso rdf:resource="http://www.hukukmarket.com/"/>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RCC0u04q3vY6xAi95nNWVpF -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RCC0u04q3vY6xAi95nNWVpF">
+        <rdfs:label>History of Law Books</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/Rriz4pAMAnpqaZLlMTqKRU"/>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://webprotege.stanford.edu/R9H3IJrqWEtJMrehSrr7SMi"/>
+                <owl:hasValue>16 x 23,5 cm</owl:hasValue>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://webprotege.stanford.edu/RXZg1ra7rx2TpMKTFJfcmt"/>
+                <owl:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2015</owl:hasValue>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://webprotege.stanford.edu/RBSnOO0OjRefOP8CI01frXk"/>
+                <owl:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">461</owl:hasValue>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://webprotege.stanford.edu/R9YFBFgKrOK24VjEl06O1BB"/>
+                <owl:hasValue>M. Akif Aydın</owl:hasValue>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://webprotege.stanford.edu/RDWRqqyyApeeQHbZ45ivij6"/>
+                <owl:hasValue>Türk Hukuk Tarihi</owl:hasValue>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <dc:description>paperback</dc:description>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RCCv7TOKZdXvOMFHuwjk8CZ -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RCCv7TOKZdXvOMFHuwjk8CZ">
+        <rdfs:label>Penalty Law</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RCCv7TOKZdXvOMFHuwjk8CZ"/>
+        <rdfs:subClassOf rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/Rriz4pAMAnpqaZLlMTqKRU -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/Rriz4pAMAnpqaZLlMTqKRU">
+        <rdfs:label>History of Law</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/Rriz4pAMAnpqaZLlMTqKRU"/>
+        <rdfs:subClassOf rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+    </owl:Class>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Individuals
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://webprotege.stanford.edu/R7xTWV06xL0YBHSAB37dfld -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/R7xTWV06xL0YBHSAB37dfld">
+        <rdfs:label>Faruk Özalp, Tuba Özalp</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Annotations
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    <rdf:Description rdf:about="http://webprotege.stanford.edu/RuydfCI4jHlxkdohG0ddOr">
+        <rdfs:label>k</rdfs:label>
+    </rdf:Description>
+</rdf:RDF>
+
+
+
+<!-- Generated by the OWL API (version 3.5.0) http://owlapi.sourceforge.net -->
+
